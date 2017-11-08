@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9d8f0132-805d-40fb-8e66-cf56923c5c32" name="Waleed@WALEED-PC 2013-05-26 12:58:49" runUser="Waleed-PC\Waleed" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2fcbd2f7-9fe8-415e-8f26-4170e02acd72">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Waleed_WALEED-PC 2013-05-26 12_58_49">
+      <DeploymentItem filename="C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\bin\Debug\ImageComparison.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-26T12:58:49.3219261+05:00" queuing="2013-05-26T12:58:55.1622602+05:00" start="2013-05-26T12:58:55.6062856+05:00" finish="2013-05-26T12:59:21.5547698+05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="9" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="8" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="WALEED-PC" outcome="Error" timestamp="2013-05-26T12:59:21.5527696+05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SettingsConstructorTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="d20a6002-7d61-15b1-251e-f95d8ab926e3">
+      <Execution id="6b1ef01e-0b68-4f7e-af9e-1ccbf8fee8a7" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.SettingsTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SettingsConstructorTest" />
+    </UnitTest>
+    <UnitTest name="linkLabel2_LinkClickedTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="1c083e0e-cc8a-befb-df56-c5e6f5457f8a">
+      <DeploymentItems>
+        <DeploymentItem filename="ImageComparison.exe" />
+      </DeploymentItems>
+      <Execution id="c708692f-6ef5-48c2-9054-ff6fe4500cb3" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Form1Test, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="linkLabel2_LinkClickedTest" />
+    </UnitTest>
+    <UnitTest name="CultureTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="72ee8754-df45-ed5a-888f-69a6956e85bf">
+      <Execution id="e7207433-1691-4d5b-b30f-061956f2aab9" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.ResourcesTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CultureTest" />
+    </UnitTest>
+    <UnitTest name="DefaultTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="d7fad077-e0f3-3f44-c686-b22908c89485">
+      <Execution id="a0927259-918b-4ad4-bef6-ab33bb12cb5b" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.SettingsTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DefaultTest" />
+    </UnitTest>
+    <UnitTest name="linkLabel1_LinkClickedTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="6ba6db93-85d1-3025-7748-8bf34c63147e">
+      <DeploymentItems>
+        <DeploymentItem filename="ImageComparison.exe" />
+      </DeploymentItems>
+      <Execution id="391b63bf-8373-4efe-895b-7d4998456b06" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Form1Test, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="linkLabel1_LinkClickedTest" />
+    </UnitTest>
+    <UnitTest name="ResourcesConstructorTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="898b9b91-a8c4-9e60-ce73-46110c176d42">
+      <Execution id="347669cf-294c-487c-80a4-66e3e57d4ae6" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.ResourcesTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ResourcesConstructorTest" />
+    </UnitTest>
+    <UnitTest name="compareImagesToolStripMenuItem_ClickTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="15608012-531b-f8a1-e4ef-736ba3492112">
+      <DeploymentItems>
+        <DeploymentItem filename="ImageComparison.exe" />
+      </DeploymentItems>
+      <Execution id="d5f1bf9d-6684-4852-828b-a38ac5abf8b4" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.MainFormTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="compareImagesToolStripMenuItem_ClickTest" />
+    </UnitTest>
+    <UnitTest name="ResourceManagerTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="2549262e-f221-4140-c219-d1f9d4bc9965">
+      <Execution id="93e3cfa6-9fbf-44f2-bb80-197f62f38b93" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.ResourcesTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ResourceManagerTest" />
+    </UnitTest>
+    <UnitTest name="button1_ClickTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\debug\testproject1.dll" id="fb06de94-41bc-3a70-538b-46fe9dccbf01">
+      <DeploymentItems>
+        <DeploymentItem filename="ImageComparison.exe" />
+      </DeploymentItems>
+      <Execution id="47d23e45-d316-4ad2-b25c-2513f4491b59" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Form1Test, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="button1_ClickTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d20a6002-7d61-15b1-251e-f95d8ab926e3" executionId="6b1ef01e-0b68-4f7e-af9e-1ccbf8fee8a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7fad077-e0f3-3f44-c686-b22908c89485" executionId="a0927259-918b-4ad4-bef6-ab33bb12cb5b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ba6db93-85d1-3025-7748-8bf34c63147e" executionId="391b63bf-8373-4efe-895b-7d4998456b06" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1c083e0e-cc8a-befb-df56-c5e6f5457f8a" executionId="c708692f-6ef5-48c2-9054-ff6fe4500cb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb06de94-41bc-3a70-538b-46fe9dccbf01" executionId="47d23e45-d316-4ad2-b25c-2513f4491b59" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="898b9b91-a8c4-9e60-ce73-46110c176d42" executionId="347669cf-294c-487c-80a4-66e3e57d4ae6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="72ee8754-df45-ed5a-888f-69a6956e85bf" executionId="e7207433-1691-4d5b-b30f-061956f2aab9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2549262e-f221-4140-c219-d1f9d4bc9965" executionId="93e3cfa6-9fbf-44f2-bb80-197f62f38b93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="15608012-531b-f8a1-e4ef-736ba3492112" executionId="d5f1bf9d-6684-4852-828b-a38ac5abf8b4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6b1ef01e-0b68-4f7e-af9e-1ccbf8fee8a7" testId="d20a6002-7d61-15b1-251e-f95d8ab926e3" testName="SettingsConstructorTest" computerName="WALEED-PC" duration="00:00:25.6804688" startTime="2013-05-26T12:58:55.8733009+05:00" endTime="2013-05-26T12:59:21.5537697+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b1ef01e-0b68-4f7e-af9e-1ccbf8fee8a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="a0927259-918b-4ad4-bef6-ab33bb12cb5b" testId="d7fad077-e0f3-3f44-c686-b22908c89485" testName="DefaultTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0927259-918b-4ad4-bef6-ab33bb12cb5b">
+    </UnitTestResult>
+    <UnitTestResult executionId="391b63bf-8373-4efe-895b-7d4998456b06" testId="6ba6db93-85d1-3025-7748-8bf34c63147e" testName="linkLabel1_LinkClickedTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="391b63bf-8373-4efe-895b-7d4998456b06">
+    </UnitTestResult>
+    <UnitTestResult executionId="c708692f-6ef5-48c2-9054-ff6fe4500cb3" testId="1c083e0e-cc8a-befb-df56-c5e6f5457f8a" testName="linkLabel2_LinkClickedTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c708692f-6ef5-48c2-9054-ff6fe4500cb3">
+    </UnitTestResult>
+    <UnitTestResult executionId="47d23e45-d316-4ad2-b25c-2513f4491b59" testId="fb06de94-41bc-3a70-538b-46fe9dccbf01" testName="button1_ClickTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="47d23e45-d316-4ad2-b25c-2513f4491b59">
+    </UnitTestResult>
+    <UnitTestResult executionId="347669cf-294c-487c-80a4-66e3e57d4ae6" testId="898b9b91-a8c4-9e60-ce73-46110c176d42" testName="ResourcesConstructorTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="347669cf-294c-487c-80a4-66e3e57d4ae6">
+    </UnitTestResult>
+    <UnitTestResult executionId="e7207433-1691-4d5b-b30f-061956f2aab9" testId="72ee8754-df45-ed5a-888f-69a6956e85bf" testName="CultureTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7207433-1691-4d5b-b30f-061956f2aab9">
+    </UnitTestResult>
+    <UnitTestResult executionId="93e3cfa6-9fbf-44f2-bb80-197f62f38b93" testId="2549262e-f221-4140-c219-d1f9d4bc9965" testName="ResourceManagerTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="93e3cfa6-9fbf-44f2-bb80-197f62f38b93">
+    </UnitTestResult>
+    <UnitTestResult executionId="d5f1bf9d-6684-4852-828b-a38ac5abf8b4" testId="15608012-531b-f8a1-e4ef-736ba3492112" testName="compareImagesToolStripMenuItem_ClickTest" computerName="WALEED-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d5f1bf9d-6684-4852-828b-a38ac5abf8b4">
+    </UnitTestResult>
+  </Results>
+</TestRun>

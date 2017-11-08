@@ -1,0 +1,12 @@
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\bin\Release\ImageComparison.exe
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\bin\Release\ImageComparison.pdb
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.Crop.resources
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.Form1.resources
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.FreeHand.resources
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.GScale.resources
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.MainForm.resources
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.Properties.Resources.resources
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.csproj.GenerateResource.Cache
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.exe
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.pdb
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\obj\Release\ImageComparison.csprojResolveAssemblyReference.cache

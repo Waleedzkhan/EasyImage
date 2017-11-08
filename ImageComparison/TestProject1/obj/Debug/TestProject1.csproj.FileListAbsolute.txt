@@ -1,0 +1,9 @@
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\bin\Debug\ImageComparison.exe
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\bin\Debug\ImageComparison.pdb
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\bin\Debug\ImageComparison_Accessor.exe
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\bin\Debug\ImageComparison_Accessor.pdb
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\obj\Debug\TestProject1.pdb

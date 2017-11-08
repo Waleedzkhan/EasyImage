@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a7a5b55e-4cbb-4992-b0e5-56d4be9baf97" name="Waleed@WALEED-PC 2013-05-28 12:06:26" runUser="Waleed-PC\Waleed" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2fcbd2f7-9fe8-415e-8f26-4170e02acd72">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Waleed_WALEED-PC 2013-05-28 12_06_26">
+      <DeploymentItem filename="C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\ImageComparison\bin\Release\ImageComparison.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-28T12:06:26.9289602+05:00" queuing="2013-05-28T12:06:30.2991530+05:00" start="2013-05-28T12:06:30.4071592+05:00" finish="2013-05-28T12:06:37.5505678+05:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="WALEED-PC" outcome="Warning" timestamp="2013-05-28T12:06:28.5910553+05:00">
+        <Text>Deployment is currently disabled. The deployment item 'ImageComparison.exe' on test 'TestProject1.Form1Test.linkLabel1_LinkClickedTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="linkLabel1_LinkClickedTest" storage="c:\users\waleed\downloads\imagecomparison\imagecomparison\testproject1\bin\release\testproject1.dll" id="6ba6db93-85d1-3025-7748-8bf34c63147e">
+      <DeploymentItems>
+        <DeploymentItem filename="ImageComparison.exe" />
+      </DeploymentItems>
+      <Execution id="49626235-2f4c-4d27-b364-245610513783" />
+      <TestMethod codeBase="C:/Users/Waleed/Downloads/ImageComparison/ImageComparison/TestProject1/bin/Release/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.Form1Test, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="linkLabel1_LinkClickedTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6ba6db93-85d1-3025-7748-8bf34c63147e" executionId="49626235-2f4c-4d27-b364-245610513783" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="49626235-2f4c-4d27-b364-245610513783" testId="6ba6db93-85d1-3025-7748-8bf34c63147e" testName="linkLabel1_LinkClickedTest" computerName="WALEED-PC" duration="00:00:06.2087897" startTime="2013-05-28T12:06:30.5111651+05:00" endTime="2013-05-28T12:06:37.3855583+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="49626235-2f4c-4d27-b364-245610513783">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at TestProject1.Form1Test.linkLabel1_LinkClickedTest() in C:\Users\Waleed\Downloads\ImageComparison\ImageComparison\TestProject1\Form1Test.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
